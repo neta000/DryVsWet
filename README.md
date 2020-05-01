@@ -1,7 +1,7 @@
 # DryVsWet
 android app to classify dry and wet waste in mobile without running in server
 
-this project is the android app only basic one .
+this project is the android app only basic one. 
 to do the operation required.
 
 the project is based on tensorflow lite and run the model in mobile.
